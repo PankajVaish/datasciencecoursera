@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-repo for data science course in coursera
+repo for data science course in coursera.
